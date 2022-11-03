@@ -1,0 +1,135 @@
+header {
+    text-align: center;
+    border-style: solid;
+    border-color: #8f51c2;
+    color: #8f51c2  ;
+    
+
+}
+head{
+    border-color: #111111;
+    border-style: solid;
+}
+footer{
+    border-style: solid;
+    border-color: #8f51c2;
+    text-align: center;
+    color: #8f51c2;
+}
+
+body{
+    background-color: #2a2a2a ;
+    text-align: center;
+    border-style: solid;
+    border-color: #8f51c2;
+}
+nav {
+    border-style:solid;
+    border-color: #8f51c2;
+    background-color: #2a2a2a;
+  
+}
+
+.cat{
+    color: #8f51c2;
+}
+.menuInicial button{
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: #7e3ab4;
+}
+.menu a{
+    color: #111111;
+}
+ button{
+    background:none;
+    border: none;
+    font-weight: bold;
+ }
+
+.cat{
+    background-color: #2a2a2a;
+    text-align: center;
+}
+
+.im{
+    border-style: solid;
+    border-color: #111111;
+    width: 30%;
+    height: 10%;
+    text-align: center; 
+    margin-left: 12%;
+    background-color:  #7e3ab4;
+    border-radius: 10%;
+
+}
+.im2{
+    border-style: solid;
+    border-color: #111111;
+    margin-left: 57%;
+    width: 30%;
+    text-align: center;
+    margin-top: -32%;
+    background-color: #7e3ab4;
+    border-radius: 10%;
+}
+
+.im3{
+    border-style: solid;
+    border-color: #111111;
+    width: 25%;
+    width: 30%;
+    text-align: center;
+    background-color: #7e3ab4 ;
+    margin-left: 12%;
+    border-radius: 10%;
+
+}
+
+.im4{
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-right: 5%
+    ;
+    border-style: solid;
+    border-color: #111111;
+    margin-left: 57%;
+    width: 30%;
+    text-align: center;
+    margin-top: -31%;
+    background-color: #7e3ab4;
+    border-radius: 10%;
+}
+img{
+    width: 60%;
+    border-radius: 5%;
+    border-color: #2a2a2a;
+}
+
+.icon{
+    margin-left: -10%;
+    width: 120%;
+    margin-top: 10%;
+}
+.b1{
+    background-color: #2a2a2a ;
+    width: 2%;
+    border-style: none;
+}
+figure h3{
+    text-align: center;
+}
+figure{
+    background-color: #7e3ab4;
+    width: 28.5%;
+    border-style: solid;
+    text-align: justify;
+    color:#111111;
+}
+.imagem{
+    width: 5%;
+    height: 350px;
+    width: 250px;
+    border-radius: 5%;
+    margin-left: 25%;
+}

@@ -1,0 +1,70 @@
+
+html{
+    background-color: azure;
+    padding-left: 70px;
+    padding-right: 70px;
+    
+}
+
+body{
+    background-color: #e4cef7;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    border-style: solid;
+    border-color: #4c1777;
+    font-family: Arial;
+    font-size:larger;
+}
+h1{
+    text-align: center;
+    color:#4c1777;
+}
+h2{
+    color: #4c1777;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    line-height: 30px;
+  
+}
+
+
+.nomes{
+    text-align:justify;
+    border-bottom: solid;
+    color: #7e3ab4;
+    font-weight: bolder;
+
+    
+}
+
+.vendedor{
+    text-align: end;
+    color: #7e3ab4;
+    font-weight: bolder;
+}
+
+.atributos{
+    text-align: end;
+    color: #7c3eaf;
+    font-style: oblique;
+}
+
+.dados{
+    text-align: end;
+}
+
+.dadosTotais{
+    background-color: #9453c9;
+    border-style: solid;
+    border-color: #6c329c;
+    font-weight: bolder;
+    text-align: end;
+    font-weight:bolder;
+}
+.dadosColunaUm{
+    text-align: left;
+}
